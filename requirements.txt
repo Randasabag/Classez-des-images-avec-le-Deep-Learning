@@ -69,8 +69,7 @@ onnx==1.17.0
 onnxruntime==1.19.2
 onnxslim==0.1.43
 opencv-contrib-python==4.10.0.84
-#opencv-python==4.10.0.84
-opencv-python-headless==4.5.3.56
+opencv-python==4.10.0.84
 opt_einsum==3.4.0
 optree==0.13.0
 packaging==24.1
