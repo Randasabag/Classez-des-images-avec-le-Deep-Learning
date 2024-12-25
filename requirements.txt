@@ -40,7 +40,7 @@ importlib_resources==6.4.5
 ipykernel==6.29.5
 ipython==8.18.1
 jedi==0.19.1
-Jinja2==3.1.4
+Jinja2==3.1.5
 joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
@@ -121,7 +121,7 @@ timm==1.0.11
 toml==0.10.2
 torch==2.5.1
 torchvision==0.20.1
-tornado==6.4.1
+tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
 ttach==0.0.3
@@ -132,6 +132,6 @@ ultralytics==8.0.14  # Exemples de versions compatibles
 ultralytics-thop==2.0.12
 urllib3==2.2.3
 wcwidth==0.2.13
-Werkzeug==3.0.5
+Werkzeug==3.0.6
 wrapt==1.17.0
 zipp==3.20.2
